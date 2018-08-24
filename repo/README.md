@@ -12,12 +12,15 @@ BankNotes has active wallet development and brings new features and active commu
 
 Official ANN on Bitcointalk:
 LINK
+
 Blockchain Explorer:
 LINK
+
 Social media information:
 LINK
 
 Discord Community: LINK
 
 website: LINK
+
 © 2018 GitHub, Inc.
