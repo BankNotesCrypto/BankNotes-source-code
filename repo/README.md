@@ -1,5 +1,6 @@
 BankNotes is a cutting edge cryptocurrency, with many features not available in most other cryptocurrencies.
 BankNotes has a High Pos of 950% that ensures steady profits to investors.
+
 Algo	Scrypt
 
 Block Time	60 Seconds
